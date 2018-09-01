@@ -1,0 +1,966 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Avata 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-10 17:46+0800\n"
+"PO-Revision-Date: 2016-08-24 18:55+0800\n"
+"Last-Translator: HooThemes <support@hoosoft.com>\n"
+"Language-Team: HooThemes <support@hoosoft.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22 includes/breadcrumbs.php:146
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "<h1>OOPS!</h1><p>Can't find the page.</p>"
+msgstr ""
+
+#: archive.php:61 search.php:61
+msgid "Previous Page"
+msgstr ""
+
+#: archive.php:62 search.php:62
+msgid "Next Page"
+msgstr ""
+
+#: archive.php:63 index.php:61 search.php:63 single.php:62
+msgid "Page"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:11
+msgid "No comment"
+msgstr ""
+
+#: comments.php:11
+msgid "Has one comment"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: comments.php:12
+msgid "You can "
+msgstr ""
+
+#: comments.php:12
+msgid "leave a reply"
+msgstr ""
+
+#: comments.php:12
+msgid " or "
+msgstr ""
+
+#: comments.php:12
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:12
+msgid "this post."
+msgstr ""
+
+#: comments.php:24
+msgid "Comment pages"
+msgstr ""
+
+#: comments.php:52
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:63
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:65
+msgid "Leave a Reply"
+msgstr ""
+
+#: footer-frontpage.php:32
+#, php-format
+msgid "Designed by <a href=\"%s\">HooThemes</a>."
+msgstr ""
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Front Page Main Menu"
+msgstr ""
+
+#: functions.php:529
+msgid "Re-order Saved."
+msgstr ""
+
+#: functions.php:530
+msgid "Are you sure you want to remove this section?"
+msgstr ""
+
+#: functions.php:531
+msgid "Remove Section"
+msgstr ""
+
+#: functions.php:532
+msgid "Duplicate Section"
+msgstr ""
+
+#: functions.php:533
+#, php-format
+msgid ""
+"Get the <a href=\"%s\" target=\"_blank\">Pro version</a> of Avata to acquire "
+"this feature."
+msgstr ""
+
+#: functions.php:693
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:698
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:734
+msgid "<i class=\"fa fa-comment\"></i> 1 "
+msgstr ""
+
+#: functions.php:734
+msgid "<i class=\"fa fa-comment\"></i> % "
+msgstr ""
+
+#: functions.php:751 functions.php:812
+msgid "No Comments"
+msgstr ""
+
+#: functions.php:752 functions.php:814
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:753 functions.php:810
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:754
+msgid "Comments Off"
+msgstr ""
+
+#: functions.php:792
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: functions.php:1069
+msgid "Hoo Contact Form"
+msgstr ""
+
+#: includes/breadcrumbs.php:144
+msgid "Browse:"
+msgstr ""
+
+#: includes/breadcrumbs.php:145
+msgid "Home"
+msgstr ""
+
+#: includes/breadcrumbs.php:147
+msgid "Archives"
+msgstr ""
+
+#: includes/breadcrumbs.php:149
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/breadcrumbs.php:151
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:153
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:155
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:1052 includes/breadcrumbs.php:1088
+#: includes/breadcrumbs.php:1105 includes/breadcrumbs.php:1136
+msgid "Edit"
+msgstr ""
+
+#: includes/breadcrumbs.php:1080
+msgid "Split"
+msgstr ""
+
+#: includes/breadcrumbs.php:1084
+msgid "Merge"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:399
+#: includes/class-tgm-plugin-activation.php:3304
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2106
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2415
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2418
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2434
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2437
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2440
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2457
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2461
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2463
+msgid "Active"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2469
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2472
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2475
+msgid "Update recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2640
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2652
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2689
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2690
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2691
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2695
+msgid "Version"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2696
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2745
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2750
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2756
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2861
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2867
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2870
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2901
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2903
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2944
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2946
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3303
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3647
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3650
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3652
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3656
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3658
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3659
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3661
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3666
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3667
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3669
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/customizer.php:59
+msgid "Avata: Front Page Sections"
+msgstr ""
+
+#: includes/options.php:49
+msgid "--Disable--"
+msgstr ""
+
+#: includes/options.php:51
+#, php-format
+msgid "Sidebar %d"
+msgstr ""
+
+#: includes/options.php:156
+msgid "It will take the height defined by your section/slide content."
+msgstr ""
+
+#: includes/options.php:161
+msgid "Section Title Typography"
+msgstr ""
+
+#: includes/options.php:184
+msgid "Section Subtitle Typography"
+msgstr ""
+
+#: includes/options.php:207
+msgid "Section Content Typography"
+msgstr ""
+
+#: includes/options.php:438 includes/options.php:698
+msgid "Online Support"
+msgstr ""
+
+#: includes/options.php:441 includes/options.php:454 includes/options.php:466
+msgid "Get Started"
+msgstr ""
+
+#: includes/options.php:444 includes/options.php:457 includes/options.php:469
+msgid "View Plans"
+msgstr ""
+
+#: includes/options.php:451 includes/options.php:705
+msgid "Web Development"
+msgstr ""
+
+#: includes/options.php:463
+msgid "Simple, Beautiful and Amazing"
+msgstr ""
+
+#: includes/options.php:563
+msgid "Section Slider Banner"
+msgstr ""
+
+#: includes/options.php:571
+msgid "FULL-SCREEN VIDEO BACKGROUND"
+msgstr ""
+
+#: includes/options.php:655
+msgid "Section Video Background (Pro)"
+msgstr ""
+
+#: includes/options.php:662
+msgid "Why Choose Us"
+msgstr ""
+
+#: includes/options.php:673 includes/options.php:856 includes/options.php:931
+#: includes/options.php:1213
+msgid "Columns"
+msgstr ""
+
+#: includes/options.php:711
+msgid "Responsive Design"
+msgstr ""
+
+#: includes/options.php:746
+msgid "Section Features Style 1"
+msgstr ""
+
+#: includes/options.php:754
+msgid "Watch the best Technology in <span>Action</span>"
+msgstr ""
+
+#: includes/options.php:779
+msgid "Section Video"
+msgstr ""
+
+#: includes/options.php:786
+msgid "We create Awesome Branding"
+msgstr ""
+
+#: includes/options.php:807
+msgid "Left Image Right Text"
+msgstr ""
+
+#: includes/options.php:807
+msgid "Left Text Right Image"
+msgstr ""
+
+#: includes/options.php:833
+msgid "Section Intro"
+msgstr ""
+
+#: includes/options.php:842
+msgid "Gallery"
+msgstr ""
+
+#: includes/options.php:878 includes/options.php:879 includes/options.php:880
+#: includes/options.php:881 includes/options.php:882 includes/options.php:883
+#: includes/options.php:884 includes/options.php:885 includes/options.php:886
+#: includes/options.php:887 includes/options.php:888 includes/options.php:889
+#, php-format
+msgid "Gallery Items %d"
+msgstr ""
+
+#: includes/options.php:910
+msgid "Section Gallery"
+msgstr ""
+
+#: includes/options.php:918
+msgid "Our Team"
+msgstr ""
+
+#: includes/options.php:1103
+msgid "Section Team"
+msgstr ""
+
+#: includes/options.php:1189
+msgid "Section Testimonial"
+msgstr ""
+
+#: includes/options.php:1299
+msgid "Section Counter"
+msgstr ""
+
+#: includes/options.php:1388
+msgid "Section Blog"
+msgstr ""
+
+#: includes/options.php:1436
+msgid "Section Slogan"
+msgstr ""
+
+#: includes/options.php:1453
+msgid "About Us"
+msgstr ""
+
+#: includes/options.php:1474
+msgid "Left Progress Bar Right Text"
+msgstr ""
+
+#: includes/options.php:1474
+msgid "Left Text Right Progress Bar"
+msgstr ""
+
+#: includes/options.php:1552
+msgid "Progress Bar Style 1"
+msgstr ""
+
+#: includes/options.php:1560
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/options.php:1637
+msgid "Progress Bar Style 2"
+msgstr ""
+
+#: includes/options.php:1650
+#, php-format
+msgid "Custom Section %d"
+msgstr ""
+
+#: includes/options.php:1696
+msgid "Avata: Front Page Options"
+msgstr ""
+
+#: includes/options.php:1702
+msgid "General Options"
+msgstr ""
+
+#: includes/options.php:1713
+msgid "Section Auto Scrolling"
+msgstr ""
+
+#: includes/options.php:1714
+msgid ""
+"Defines whether to use the \"automatic\" scrolling or the \"normal\" one."
+"(Only affect desktop devices)"
+msgstr ""
+
+#: includes/options.php:1723
+msgid "Enable Animation"
+msgstr ""
+
+#: includes/options.php:1731
+msgid "Animation Delay"
+msgstr ""
+
+#: includes/options.php:1740
+msgid "Menu Font Color"
+msgstr ""
+
+#: includes/options.php:1749
+msgid "Front Page Header"
+msgstr ""
+
+#: includes/options.php:1760
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/options.php:1770
+msgid "Sticky Header Opacity"
+msgstr ""
+
+#: includes/options.php:1785
+msgid "Side Navigation Icon Styling"
+msgstr ""
+
+#: includes/options.php:1796
+msgid "Hide Side Navigation"
+msgstr ""
+
+#: includes/options.php:1805
+msgid "Side Navigation Align"
+msgstr ""
+
+#: includes/options.php:1810
+msgid "Left"
+msgstr ""
+
+#: includes/options.php:1811
+msgid "Right"
+msgstr ""
+
+#: includes/options.php:1820
+msgid "Icon Styles"
+msgstr ""
+
+#: includes/options.php:1825
+msgid "Fill up"
+msgstr ""
+
+#: includes/options.php:1826
+msgid "Scale up"
+msgstr ""
+
+#: includes/options.php:1827
+msgid "Stroke"
+msgstr ""
+
+#: includes/options.php:1828
+msgid "Fill in"
+msgstr ""
+
+#: includes/options.php:1829
+msgid "Circle grow"
+msgstr ""
+
+#: includes/options.php:1830
+msgid "Dot stroke"
+msgstr ""
+
+#: includes/options.php:1831
+msgid "Draw circle"
+msgstr ""
+
+#: includes/options.php:1832
+msgid "Small dot stroke"
+msgstr ""
+
+#: includes/options.php:1833
+msgid "Puff"
+msgstr ""
+
+#: includes/options.php:1834
+msgid "Hop"
+msgstr ""
+
+#: includes/options.php:1840
+msgid "Icon Color"
+msgstr ""
+
+#: includes/options.php:1849
+msgid "Icon Border Color"
+msgstr ""
+
+#: includes/options.php:1858
+msgid "Side Padding"
+msgstr ""
+
+#: includes/options.php:1868
+msgid "Avata: Basic Settings"
+msgstr ""
+
+#: includes/options.php:1878
+msgid "Primary Color"
+msgstr ""
+
+#: includes/options.php:1887
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: includes/options.php:1896
+msgid "Hide Page Title Bar"
+msgstr ""
+
+#: includes/options.php:1906
+msgid "Page Title Bar Background"
+msgstr ""
+
+#: includes/options.php:1919
+msgid "Header Tracking Code"
+msgstr ""
+
+#: includes/options.php:1928
+msgid "Footer Tracking Code"
+msgstr ""
+
+#: includes/options.php:1937
+msgid "404 Page Content"
+msgstr ""
+
+#: includes/options.php:1950
+msgid "Section Order"
+msgstr ""
+
+#: includes/options.php:1959
+msgid "Avata: Sidebar Settings"
+msgstr ""
+
+#: includes/options.php:1969
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: includes/options.php:1979
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: includes/options.php:1989
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: includes/options.php:1999
+msgid "Post Right Sidebar"
+msgstr ""
+
+#: includes/options.php:2009
+msgid "Archive Left Sidebar"
+msgstr ""
+
+#: includes/options.php:2019
+msgid "Archive Right Sidebar"
+msgstr ""
+
+#: includes/options.php:2030
+msgid "Avata: Footer"
+msgstr ""
+
+#: includes/options.php:2041
+msgid "Display Footer Widgets"
+msgstr ""
+
+#: includes/options.php:2050
+msgid "Footer Widgets Area Background"
+msgstr ""
+
+#: includes/options.php:2132
+msgid "Copyright"
+msgstr ""
+
+#: includes/options.php:2141
+msgid "Copyright Font Color"
+msgstr ""
+
+#: includes/options.php:2150
+msgid "Copyright Background Color"
+msgstr ""
+
+#: includes/options.php:2159
+msgid "Avata: Typography"
+msgstr ""
+
+#: includes/options.php:2170
+msgid "Load Google Fonts"
+msgstr ""
+
+#: includes/options.php:2179
+msgid "Avata: Posts & Pages"
+msgstr ""
+
+#: includes/options.php:2190
+msgid "Hide Post Meta"
+msgstr ""
+
+#: includes/options.php:2198
+msgid "Hide Meta: Date"
+msgstr ""
+
+#: includes/options.php:2206
+msgid "Hide Meta: Author"
+msgstr ""
+
+#: includes/options.php:2214
+msgid "Hide Meta: Comments"
+msgstr ""
+
+#: includes/options.php:2222
+msgid "Hide Categories on Post List Page"
+msgstr ""
+
+#: includes/options.php:2230
+msgid "Hide \"Read More\" on Post List Page"
+msgstr ""
+
+#: includes/options.php:2238 includes/options.php:2248
+msgid "HTML Code Before Post Content"
+msgstr ""
+
+#: includes/options.php:2241
+msgid "You can add code(e.g. addthis, sharethis) before blog post content."
+msgstr ""
+
+#: includes/options.php:2251
+msgid "You can add code(e.g. addthis, sharethis) after blog post content."
+msgstr ""
+
+#: includes/options.php:2258 includes/options.php:2268
+msgid "HTML Code Before Page Content"
+msgstr ""
+
+#: includes/options.php:2261
+msgid "You can add code(e.g. addthis, sharethis) before page content."
+msgstr ""
+
+#: includes/options.php:2271
+msgid "You can add code(e.g. addthis, sharethis) after page content."
+msgstr ""
+
+#: includes/theme-widgets.php:25
+msgid "Footer Area One"
+msgstr ""
+
+#: includes/theme-widgets.php:33
+msgid "Footer Area Two"
+msgstr ""
+
+#: includes/theme-widgets.php:41
+msgid "Footer Area Three"
+msgstr ""
+
+#: includes/theme-widgets.php:49
+msgid "Footer Area Four"
+msgstr ""
+
+#: index.php:59 single.php:60 template-parts/content-page.php:28
+msgid "Previous page"
+msgstr ""
+
+#: index.php:60 single.php:61 template-parts/content-page.php:27
+msgid "Next page"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search for"
+msgstr ""
+
+#: single.php:82
+msgid "Tags: "
+msgstr ""
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-post.php:27 template-parts/content-search.php:27
+msgid "Read More"
+msgstr ""
